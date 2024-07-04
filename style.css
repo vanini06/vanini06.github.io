@@ -94,3 +94,16 @@ a:hover {
 .foto-perfil{
     height: 200px;
 }
+@media screen and (width < 414px) {
+    header{
+        display: none;
+        
+    }
+}
+
+
+
+
+
+  
+
